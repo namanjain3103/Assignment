@@ -1,0 +1,44 @@
+
+.websocket-demo-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.websocket-demo-title {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.websocket-demo-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+.websocket-demo-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.websocket-demo-button:hover {
+  background-color: #0056b3;
+}
+
+.websocket-demo-message {
+  font-size: 16px;
+  color: #555;
+  margin-top: 20px;
+}
